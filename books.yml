@@ -365,3 +365,10 @@ books:
         published: 2008
         genre: 'Novel'
         country: 'United States'
+    -
+        author: 'Brandon Sanderson'
+        title: 'new title'
+        published: 2008
+        genre: 'Novel'
+        country: 'United States'
+
